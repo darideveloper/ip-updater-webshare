@@ -38,7 +38,7 @@ Project type: **client**
 
 # Details
 
-Script for get your current proxy and save it with the proxy provider [webshare.io](https://www.webshare.io/)
+Script for get your current ip and save it with the proxy provider [webshare.io](https://www.webshare.io/)
 
 ## Terminal outputs:
 
